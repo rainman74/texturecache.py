@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 2.5.5 (05/04/2025)
+* Fix: Fix syntax and deprecation warnings and makes it compatible with Python 3.12
+
 ## Version 2.5.4 (11/05/2020)
 * Fix: Fix isatty() when attribute not available
 
